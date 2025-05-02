@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+Christoffer Raffaelo Wijaya
+
+Ferlian Risley Effendi
+
+Devandro Pranaya Adenan
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
